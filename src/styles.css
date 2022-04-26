@@ -113,3 +113,8 @@ h3 {
   width: 10em;
   transition: width 0.7s ease-in-out;
 }
+
+.footer {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
