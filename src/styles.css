@@ -1,0 +1,115 @@
+body {
+  margin: 0 auto;
+  padding: 30px, 40px;
+  background-color: #f6e7d8;
+}
+h1 {
+  color: #f6e7d8;
+  padding: 20px 20px;
+  font-size: 20px;
+  display: block;
+  margin: 0 auto;
+  font-weight: bolder;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h2 {
+  color: #f6e7d8;
+  padding: 10px 20px;
+  display: block;
+  margin: 0, auto;
+  font-size: 20px;
+  font-weight: bolder;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h3 {
+  color: #f6e7d8;
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0 auto;
+  display: block;
+  padding: 10px 20px;
+  list-style: none;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.container {
+  border-radius: 2px;
+  display: block;
+  margin: 30px, 30px;
+  border: 2px solid #f68989;
+  background-color: #874356;
+  border-radius: 30px;
+  color: #fff;
+  list-style: none;
+}
+.form-select {
+  color: #ca0b4a;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 10px;
+  margin: 20px 0;
+  list-style: none;
+}
+.conditions {
+  color: #f6e7d8;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+  list-style: none;
+}
+.row {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 25px;
+  color: #f6e7d8;
+  margin: 0 auto;
+  padding: 10px 20px;
+  list-style: none;
+}
+
+.temperature {
+  font-size: 70px;
+  font-weight: bolder;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  display: block;
+  margin: 20px, 20px;
+  padding: 20px, 30px;
+  color: #f6e7d8;
+  text-align: center;
+  list-style: none;
+}
+.container-forecast {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: lighter;
+  text-align: center;
+  color: #874356;
+  padding: 10px, 5px;
+  display: block;
+  margin: 20px, 20px;
+  font-size: 12px;
+  list-style: none;
+}
+.col-1 {
+  font-size: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #874356;
+  padding: 30px, 20px;
+  text-align: center;
+  display: block;
+  margin: 10px 5px;
+  width: none;
+  background-color: #f6e7d8;
+  border-radius: 30px;
+}
+.col-1:hover {
+  cursor: pointer;
+  opacity: 0.9;
+}
+
+.search-form {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 0.5em;
+  padding: 20px 0 0 20px;
+  width: 50%;
+  padding: 10px, 10px, 10px, 10px;
+  font-size: 1.2em;
+  width: 10em;
+  transition: width 0.7s ease-in-out;
+}
